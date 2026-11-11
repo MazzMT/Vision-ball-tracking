@@ -1,0 +1,5 @@
+huggingface_hub
+opencv-python>=4.5
+numpy>=1.21
+scipy>=1.7
+# plus PyTorch with CUDA, see README: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
