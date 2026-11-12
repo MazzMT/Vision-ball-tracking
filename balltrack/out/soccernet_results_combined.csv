@@ -1,0 +1,5 @@
+data_set,method,labelled_frames,ball_frames,readings,correct,wrong_total,wrong_place,false_alarm,missed,correct_no_ball,pct_correct_of_readings,pct_wrong_of_readings,pct_missed_of_ball_frames
+"validation (5 clips, same 3 matches as NN training)",classical,3750,3495,2504,1202,1302,1180,122,1113,133,48.0,52.0,31.8
+"validation (5 clips, same 3 matches as NN training)",nn,3750,3495,3321,2972,349,258,91,265,164,89.5,10.5,7.6
+"test (49 clips, 3 unseen matches)",classical,36750,33804,28725,11964,16761,14581,2180,7259,766,41.7,58.3,21.5
+"test (49 clips, 3 unseen matches)",nn,36750,33804,29951,27580,2371,1856,515,4368,2431,92.1,7.9,12.9
